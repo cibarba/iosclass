@@ -1,0 +1,20 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+//esto es swift
+var v1 = "esto es swift"
+
+//valor de constante
+let c1 = 4
+
+//declaracion de cadena
+var cadena:String = String()
+//incializacion de cadena
+cadena = "Hola mundo " + v1
+
+//impresion de contenido
+print("El contenido es: \(cadena)")
+print("El valor de constante es: \(c1)")
+
+
